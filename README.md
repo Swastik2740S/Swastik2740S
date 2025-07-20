@@ -105,6 +105,7 @@
 - 📹 [Demo Video – HackIndia](#)
 - 📰 [HackIndia 2024 Post](#)
 - 📰 [HackFest Post](#)
+- 📰 [Vegas Hackathon](https://github.com/khushsharma509/Immutable-Data-Integrity-Solutions-for-Space-Exploration)
 
 ---
 
