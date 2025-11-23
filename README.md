@@ -1,7 +1,6 @@
 <!-- Banner / Greeting -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&pause=800&color=00AEEF&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Swastik+Verma+👋;Full-Stack+Developer+%7C+Blockchain+Developer;Spring+Boot+%7C+Next.js+%7C+Web3+Enthusiast" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi there, I'm Swastik 👋</h1>
+
 
 <p align="center">
   <b>Computer Science Undergraduate @ Chitkara University</b><br/>
