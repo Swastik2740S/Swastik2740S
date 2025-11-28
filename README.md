@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,spring,express,react,nextjs,tailwind,aws,docker,mongodb,mysql,postgres,git,linux,bash" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,spring,express,react,nextjs,tailwind,aws,docker,mongodb,mysql,postgres,git,linux" alt="skills" />
 </p>
 
 <!-- Wave Divider -->
