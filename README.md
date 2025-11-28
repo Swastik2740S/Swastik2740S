@@ -11,10 +11,7 @@
   <img src="https://skillicons.dev/icons?i=java,javascript,spring,express,react,nextjs,tailwind,aws,docker,mongodb,mysql,postgres,git,linux" alt="skills" />
 </p>
 
-<!-- Wave Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/src/images/wave.svg" width="100%" />
-</p>
+
 
 ---
 
