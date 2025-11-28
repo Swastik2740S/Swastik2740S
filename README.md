@@ -43,7 +43,6 @@
 
 - **Tech:** MERN, Solidity, Web3.js, IPFS  
 - 🔗 **GitHub:** https://github.com/khushsharma509/HackIndia-Spark-4---Supersqaud  
-- 🎥 **Demo / Certificate:** https://drive.google.com/file/d/1i8qhs4xzMuPRaKeRbYLBJ3ZBYdwktF2p/view  
 - 📰 **LinkedIn Post:** https://www.linkedin.com/posts/hackindiaxyz_hackindia2024-hackindia2024-hackathon-activity-7260259500111114240-y2pZ  
 
 ---
