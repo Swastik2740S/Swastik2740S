@@ -122,13 +122,7 @@
 
 ---
 
-## 📊 GitHub Analytics (Animated)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swastik2740S&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Swastik2740S&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
-</p>
-
+## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swastik2740S&theme=github-dark&area=true&color=00AEEF&line=00AEEF&hide_border=true" />
 </p>
