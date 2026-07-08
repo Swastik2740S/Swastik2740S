@@ -66,7 +66,7 @@
 ### 💼 **Portfolio Website**
 *Personal portfolio built with Next.js & hosted on Vercel*
 
-- 🌐 **Live:** https://my-porfolio-rho-one.vercel.app/
+- 🌐 **Live:** swastikverma.in
 
 ---
 
