@@ -37,7 +37,7 @@
 ## 🔬 Research
 
 ### ⚡ **Structural Shift in Peak Power Demand — Delhi Grid (2020–2025)**
-*Under review · ICIDEA*
+*ICIDEA*
 
 - **🎯 Motivation:** Standard load models treat weather as a linear covariate, which hides interaction effects — particularly the "Cooling Trap" where rising humidity amplifies cooling load non-linearly.
 - **✅ Solution:** Modelled peak-demand growth via a **Heat × Humidity interaction term** (not weather as a linear covariate), capturing the "Cooling Trap" effect. Trained a **RidgeCV** regression on 12 years of Delhi grid data.
@@ -50,7 +50,7 @@
 
 - 🥇 **National Champion** — HackIndia 2024, Web3 Track (1 of 2,839)
 - 🚀 **Conference Showcase Selection** — Bitcoin 2025 · exSat Track
-- 🔬 **Researcher (Under Review)** — *Structural Shift in Peak Power Demand — Delhi Grid (2020–2025)*, ICIDEA
+- 🔬 **Researcher** — *Structural Shift in Peak Power Demand — Delhi Grid (2020–2025)*, ICIDEA
 - 🏅 **National Round Finalist** — HackFest 2024 · SAP × PSG iTech (Top 3 of 200+)
 - 💻 **200+ LeetCode** problems solved in Java
 - 🏅 **IEEE Core Member** — organized 6+ technical events
