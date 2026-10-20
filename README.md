@@ -75,13 +75,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swastik2740S&theme=github-dark&area=true&color=00AEEF&line=00AEEF&hide_border=true" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
