@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Swastik 👋</h1>
 
 <p align="center">
-  <b>CS @ Chitkara University • HackIndia National Champion • Researcher</b><br/>
+  <b>Software Developer • HackIndia National Champion • ML Researcher</b><br/>
   I engineer high-scale backends and research the math behind machine learning.
 </p>
 
@@ -14,8 +14,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **CS Undergrad** at Chitkara University, Punjab
-- 🥇 **HackIndia 2024 National Champion** (1 of 2,839) · **ICIDEA '25** researcher (under review)
+- 🎓 **Software dev** at Accenture
+- 🥇 **HackIndia 2024 National Champion** (1 of 2,839) · **ICIDEA '25** researcher IEEE
 - 🛠 Building analytics platforms, fitness apps, SDE prep tools, and Web3 systems that ship to production
 - 🔬 Applied ML researcher focused on energy systems and load forecasting
 - 🌐 **Open to:** new engineering partnerships and full-time opportunities
